@@ -42,7 +42,7 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: Install
-      run: |
+      run: | 
         sudo apt install nodejs
         npm install pg
       
