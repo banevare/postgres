@@ -5,5 +5,6 @@ insert into test values('aaa', 'AAAA');
 insert into test values('bbb', 'BBBB');
 insert into test values('ccc', 'CCCC');
 insert into test values('ddd', 'DDDD');
+insert into test values('eee', 'EEEE');
 select * from test;
 create user aaaa superuser password 'aaaa';
