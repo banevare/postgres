@@ -5,12 +5,14 @@ INSERT 0 1
 INSERT 0 1
 INSERT 0 1
 INSERT 0 1
+INSERT 0 1
  name | address 
 ------+---------
  aaa  | AAAA
  bbb  | BBBB
  ccc  | CCCC
  ddd  | DDDD
-(4 rows)
+ eee  | EEEE
+(5 rows)
 
 CREATE ROLE
